@@ -1,0 +1,9 @@
+01 | Arroz Carreteiro | 10.0
+02 | X Salada | 15.5
+03 | Coca Cola | 5.0
+04 | Pudim | 8.5
+05 | X Tudo | 28.5
+06 | X Egg | 18.5
+07 | Suco | 8.5
+
+
